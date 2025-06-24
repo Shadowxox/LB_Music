@@ -1,7 +1,7 @@
 {
-    "name": "⛦ MUSIC X WAIFU ⛦",
+    "name": "⛦ MUSIC Bot ⛦",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/62fa7c81c56c1ae31c844.jpg",
+    "logo": "https://i.ibb.co/SwCyJFGj/image.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "22731333",
+        "value": "YOUR_API_ID",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "f8f993acb1d5f51c950ba873404d9af5",
+        "value": "YOUR_API_HASH",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,12 +29,12 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://dbzcommunity7:8aaNMFXxpvJceE3h@cluster0.bglvihu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "value": "YOUR_MONGODB_URL",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "7078181502",
+        "value": "OWNER_ID",
         "required": true
       },
       "STRING_SESSION": {
