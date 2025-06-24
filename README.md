@@ -105,4 +105,4 @@
 <a href="https://t.me/Learn_Bots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ pirate](https://github.com/Shadowxox) ғᴏʀ [MUSIC X WAIFU BOT](https://t.me/Beta_X_Music_Bot)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ Learn Bot](https://github.com/Shadowxox) ғᴏʀ [MUSIC X WAIFU BOT](https://t.me/Beta_X_Music_Bot)_</b>
